@@ -19,5 +19,3 @@ This repository contains my configuration for [WezTerm](https://wezfurlong.org/w
     C:\Users\YourUsername\
     ```
 3. Open WezTerm to see the new settings in effect.
-
-You can save this markdown text as `README.md` in your WezTerm configuration repository.
